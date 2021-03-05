@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 repaso-python/
+Clases/
 # Distribution / packaging
 .Python
 build/
