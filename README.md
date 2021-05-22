@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Portafolio NLP
 
-You can use the [editor on GitHub](https://github.com/jrm2087/NLP/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Proyectos NLP 2021
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Proyectos 
 
-### Markdown
+- **Taller 2 - Adquisición de textos:** [Ver Taller](https://github.com/jrm2087/NLP/blob/main/taller2/taller2.ipynb)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Taller 3 - Web Scraping:** [Ver Taller](https://github.com/jrm2087/NLP/blob/main/taller3/taller3.ipynb)
 
-```markdown
-Syntax highlighted code block
+- **Taller 4 - Feature Engineering:** [Ver Taller](https://github.com/jrm2087/NLP/blob/main/taller4/taller4.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
+- **Taller 5 - TF-IDF:** [Ver Taller](https://github.com/jrm2087/NLP/blob/main/taller5/taller5.ipynb)
 
-- Bulleted
-- List
+- **Taller 7 - Clasificación de textos:** [Ver Taller](https://github.com/jrm2087/NLP/blob/main/taller7/taller7.ipynb)
+  
+- **Taller 8 - K-Means:** [Ver Taller](https://github.com/jrm2087/NLP/blob/main/taller8/taller8.ipynb)
 
-1. Numbered
-2. List
+- **Taller 9 - LDA:** [Ver Taller](https://github.com/jrm2087/NLP/blob/main/taller9/taller9.ipynb)
 
-**Bold** and _Italic_ and `Code` text
+- **Taller 10 - Nube de palabras:** [Ver Taller](https://github.com/jrm2087/NLP/blob/main/taller10/taller10.ipynb)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jrm2087/NLP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **Taller 11 - Twitter:** [Ver Taller](https://github.com/jrm2087/NLP/blob/main/taller11/taller11.ipynb)
+  
+- **Taller 12 - Análisis de sentimientos:** [Ver Taller](https://github.com/jrm2087/NLP/blob/main/taller12/taller12.ipynb)
